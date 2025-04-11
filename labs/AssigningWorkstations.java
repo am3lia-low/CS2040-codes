@@ -28,7 +28,7 @@ class TimeComparator implements Comparator<Researcher> {
 	}
 }
 
-public class AssignWSpq {
+public class AssigningWorkstations {
 
 	public static void main(String[] args) throws IOException {
 		// sigh
