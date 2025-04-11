@@ -2,7 +2,7 @@ package labs;
 
 import java.util.*;
 
-public class Lab1_T9Spelling {
+public class T9Spelling {
 	
 	public static void main(String[] args) {
 		// creating hashmap
