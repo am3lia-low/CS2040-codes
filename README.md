@@ -1,4 +1,4 @@
-# CS2040 code
+# the preface or something
 Thought it would be nice to put it up here instead of letting them pile in my computer.  
 Semester: 2023/2024 Sem 2  
 Taught by: (i forgot, brb)
