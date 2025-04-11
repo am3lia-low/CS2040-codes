@@ -31,7 +31,7 @@ public class Conformity {
 				int num = courses.get(combi) + 1;
 				courses.put(combi, num);
 				if(num > max) max = num;
-				System.out.print(max);
+				// System.out.print(max); // checkingmax
 			} else courses.put(combi, 1);
 		}
 		sc.close(); // forgot to close
