@@ -12,3 +12,4 @@ Anyways, if you're taking this module, all the best!
 My advice is:
 - do some serious past year paper grinding over Reading Week, especially the graphs
 - [VisuAlgo](https://visualgo.net/en) is ur bestie 
+got 14/75 for midterms, 70/100 for finals and A- final grade. believe in yourself!!
