@@ -43,7 +43,7 @@ public class WeakVertices {
 							// (v1) - (v3)
 							if(graf.get(v3).contains(v1)) {
 								weak[v1] = weak[v2] = weak[v3] = false;
-								// update: i typo and v3 as 3 and smoked through 4 test cases slay
+								// update: i typo v3 as 3 and smoked through 4 test cases slay
 							}
 						}
 					}
