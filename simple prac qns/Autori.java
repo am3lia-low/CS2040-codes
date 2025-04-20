@@ -6,6 +6,10 @@ import java.util.Scanner;
 public class Autori {
 
 	public static void main(String[] args) {
+		// i can't tell if its satirical but one guy ranted how he's scared of cs2040 bc he got A- for cs1010j or smth
+		// me with my B in cs1010s: -
+		// anyway
+		
 		// dude i have no idea if they want a method or
 		// the plain code itself
 		
