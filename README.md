@@ -5,7 +5,7 @@ Taught by: (i forgot, brb)
 
 #### Notes on my code:
 1. I uploaded these files with no intention for them to be pulled off GitHub. So please don't.
-2. The comments on my code are classic me; Full of yap, but explains the thought process. See the tree assignment and you'll get what I mean.
+2. The comments on my code are classic me; Full of yap, but explains the thought process. See the [tree assignment](https://github.com/am3lia-low/CS2040-codes/blob/main/take%20home%20assignment/Nicknames.java) and you'll get what I mean.
 
 Anyways, if you're taking this module, all the best!  
 My advice is:
