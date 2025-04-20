@@ -224,6 +224,7 @@ public class Nicknames {
 
 	public static void main(String[] args) throws IOException {
 		// oh god it took me 11 frigging hours to code the draft tree ToT
+		// update: YOOOO IT WORKED ON 1ST SUBMISSION
 		
 		// initialising
 		HashMap<Character, AVL> fores = new HashMap<>();
