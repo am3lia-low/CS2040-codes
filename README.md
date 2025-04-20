@@ -1,5 +1,5 @@
 # preface stuff
-Thought it would be nice to put it up here and practice my tragically weak GitHub skills.  
+Thought it would be nice to put it up here to practice my GitHub skills and save computer storage. 
 Semester: 2023/2024 Sem 2  
 Taught by: (i forgot, brb)
 
